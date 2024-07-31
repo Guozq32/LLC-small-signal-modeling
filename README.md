@@ -6,4 +6,4 @@
 
 “LLC_Small_Signal_model_PO_PFM_and_TSC.m” is the matlab code for ploting the bode diagram of the PFM and TSC in PO mode.
 
-“LLC_Small_Signal_model_NP_PFM_and_TSC.m” is the matlab code for ploting the bode diagram of the PFM and TSC in PO mode.
+“LLC_Small_Signal_model_NP_PFM_and_TSC.m” is the matlab code for ploting the bode diagram of the PFM and TSC in NP mode.
